@@ -10,9 +10,15 @@ I used PySpark to connect to AWS RDS and send finished data to PgAdmin.
 ## Results: 
 * How many Vine reviews and non-Vine reviews were there?
 We had 94 non-paid reviews and 40471 paid reviews as shown in the image:
-![Picture1](https://github.com/karen-trena/MechaCar_Statistical_Analysis/blob/main/Picture1.png)
+![Picture1](https://github.com/karen-trena/Amazon_Vine_Analysis/blob/main/Picture1.png)
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+We had 48 paid 5-star reviews and 15663 non-paid 5-star reviews:
+![Picture2](https://github.com/karen-trena/Amazon_Vine_Analysis/blob/main/Picture3.png)
+
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+We had 51% paid 5-star reviews and 39% unpaid 5-star reviews
+![Picture3](https://github.com/karen-trena/Amazon_Vine_Analysis/blob/main/Picture34.png)
+
 
 ## Summary:
