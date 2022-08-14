@@ -18,7 +18,10 @@ We had 48 paid 5-star reviews and 15663 non-paid 5-star reviews:
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 We had 51% paid 5-star reviews and 39% unpaid 5-star reviews
-![Picture3](https://github.com/karen-trena/Amazon_Vine_Analysis/blob/main/Picture34.png)
+![Picture3](https://github.com/karen-trena/Amazon_Vine_Analysis/blob/main/Picture4.png)
 
 
 ## Summary:
+Data is skewed positively towards Vine reviews as seen above. I´m sure that if we make a hypotesis test over this percentages we would get there´s a statisical difference over these proportions.
+Additionally, we could also check the median and make a hypothesis test over means instead of proportions.
+
